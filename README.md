@@ -1,5 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=socktow&theme=onedark)](https://github.com/socktow)
 <h2 align="left">Hi Im ChuChu</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=socktow&theme=onedark)](https://github.com/socktow)
 
 ###
 
