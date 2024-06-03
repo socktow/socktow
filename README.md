@@ -1,11 +1,10 @@
 <h2 align="left">Hi Im ChuChu</h2>
 
 <div align="center">
-  
 [![trophy](https://github-profile-trophy.vercel.app/?username=socktow&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/socktow)
 
 </div>
-###
+
 
 <img align="right" height="150" src="https://scontent.fdad3-6.fna.fbcdn.net/v/t39.30808-6/444486287_1898710633911050_7999260403584426371_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEXI0TAzA5ullxVsbMiAcxUbtVQKxh3eNFu1VArGHd40QlCYyA8_omHsEpSegi6PLkaSp7PgAV_GcqzLSOaUFrI&_nc_ohc=-iXuOM8_44EQ7kNvgEN2gh5&_nc_ht=scontent.fdad3-6.fna&oh=00_AYBZ6BtI1DJUFvlFQD4MRqIgs9Zc4bC5X8leAJ6nuZT48g&oe=6663D1B6"  />
 
