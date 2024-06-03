@@ -1,6 +1,7 @@
 <h2 align="left">Hi Im ChuChu</h2>
 
 <div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=socktow&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/socktow)
 
 </div>
